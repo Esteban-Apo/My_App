@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container_create_account {
+    display: flex; /*Permite cambiar la posición de los divs*/
+    justify-content: center; /*Centrar Horizontamente */
+   
+}
+
+.create_account {
+    width: 200px;
+    height: 250px;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+#title_libertadores {
+    text-align: center;
+}
